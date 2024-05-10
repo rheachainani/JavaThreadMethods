@@ -1,9 +1,3 @@
-//Name: Rhea Chainani
-//PRN: 22070126086
-//Batch: AIML-B1
-
-package assignment9;
-
 public class ThreadMethods extends Thread {
     public void run() {
         for(int i = 1; i <= 5; i++) {
